@@ -46,7 +46,7 @@ const Info = () => {
           applications using React.
         </motion.h4>
         <div>
-          <Link href={"/cv.pdf"} target="_blank">
+          <Link href={"/resume.pdf"} target="_blank">
             <motion.button
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.9 }}
